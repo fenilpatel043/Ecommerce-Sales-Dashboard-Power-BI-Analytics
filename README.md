@@ -1,1 +1,2 @@
 # Ecommerce-Sales-Dashboard-Power-BI-Analytics
+A Power BI project for Umiyastore, designed to track and analyze online sales across India. The dashboard covers the complete analytics workflow — from data collection and cleaning to modeling and visualization. It provides interactive insights through filters, slicers, and multiple visualization types (bar, pie, donut, scatter, line, map, etc.). This project helps business owners understand revenue trends, customer behavior, and product performance to make better data-driven decisions.
